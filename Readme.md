@@ -1,6 +1,11 @@
-Thanks for downloading this template!
+---
+ :)
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+- __[Bootstrap](https://getbootstrap.com/)__ - La pagina se realizo mediante estas plantillas  
+
+---
+
+# Hoja de vida 
+___
+
+La hoja de vida se construyo mediante los lenguajes html, css, entre otros
